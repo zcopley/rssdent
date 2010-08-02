@@ -1,11 +1,11 @@
-A PHP 5 script to re-syndicate an RSS feed to identi.ca / Laconica.
+A PHP 5 script to re-syndicate an RSS or Atom feed to identi.ca / StatusNet.
 
-h@x0red By Zach Copley (http://identi.ca/zach)
+h@x0red By Zach Copley (zach.status.net)
 
 Give this script an RSS feed to suck on, and it will spit the latest
-items in the feed out as dents on your indenti.ca/Laconica account,
+items in the feed out as dents on your indenti.ca/StatusNet account,
 and automatically hashtag items based on search terms you specify.
 
-Uses ur1.ca to shorten urls.  Requires PHP 5 and SimplePie 1.1.1. 
+Uses ur1.ca to shorten urls.  Requires PHP 5 and SimplePie 1.1.1.
 
 The source code is licensed under the AGPLv3 (not including SimplePie).
